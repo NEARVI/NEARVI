@@ -22,26 +22,42 @@
 
 ## Videos
 
-<p align="center">
+<div align="center">
   <a href="https://www.youtube.com/watch?v=6RrKwd8K98s">
-    <img src="https://img.youtube.com/vi/6RrKwd8K98s/hqdefault.jpg" alt="Video 1" style="width: 40%; border: 3px solid gold; display: inline-block; vertical-align: top; margin: 10px;">
+    <img src="https://img.youtube.com/vi/6RrKwd8K98s/hqdefault.jpg" alt="Video 1" width="300" style="border: 3px solid gold; border-radius: 8px;">
   </a>
-  <a href="https://www.youtube.com/watch?v=oGbXpGlxcUA">
-    <img src="https://img.youtube.com/vi/oGbXpGlxcUA/hqdefault.jpg" alt="Video 2" style="width: 40%; border: 3px solid gold; display: inline-block; vertical-align: top; margin: 10px;">
-  </a>
-</p>
-
-<p align="center">
-  <div style="width: 40%; display: inline-block; vertical-align: top; text-align: center; margin: 10px;">
+  <div>
     <strong>Video 1: Dynamic Landing Page</strong><br>
     <span>Dynamic landing page, with almost 2,000 lines of code developed for a company that provides technical support and other services.</span><br>
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1C.svg?style=flat&logo=javascript&logoColor=white" alt="JavaScript Badge" />
     <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS Badge" />
     <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML Badge" />
   </div>
-  <div style="width: 40%; display: inline-block; vertical-align: top; text-align: center; margin: 10px;">
+  <a href="https://www.youtube.com/watch?v=oGbXpGlxcUA">
+    <img src="https://img.youtube.com/vi/oGbXpGlxcUA/hqdefault.jpg" alt="Video 2" width="300" style="border: 3px solid gold; border-radius: 8px;">
+  </a>
+  <div>
     <strong>Video 2: Load and Stress Testing with JMeter</strong><br>
     <span>Load and stress testing with the Java language-based tool JMeter.</span><br>
     <img src="https://img.shields.io/badge/JMeter-%23CC3E44.svg?style=flat&logo=apache&logoColor=white" alt="JMeter Badge" />
   </div>
-</p>
+</div>
+
+## Habilidades
+
+**Image Editing:**  
+![Photoshop](https://img.shields.io/badge/Photoshop-%23E34F26.svg?style=flat&logo=adobe-photoshop&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%23E34F26.svg?style=flat&logo=canva&logoColor=white)
+
+**Video Editing:**  
+![Filmora](https://img.shields.io/badge/Filmora-%23E34F26.svg?style=flat&logo=filmora&logoColor=white) 
+![Sony Vegas](https://img.shields.io/badge/Sony_Vegas-%23E34F26.svg?style=flat&logo=sony&logoColor=white)
+
+**Technologies:**  
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C.svg?style=flat&logo=javascript&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23F7DF1C.svg?style=flat&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-%2334A853.svg?style=flat&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238C4A6E.svg?style=flat&logo=bootstrap&logoColor=white)
