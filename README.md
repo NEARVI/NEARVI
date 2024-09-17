@@ -1,6 +1,7 @@
 <h2 align="center">Hello, I’m Nelson Arrieta. 👋</h2>
-
-# About Me
+<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/d6e1c0cd-a14f-4aa5-912f-8acf2409577b">
+width="300";
+## About Me
 
 👨‍💻 **Systems and Telecommunications Engineer** with a strong background in **web development** and expertise in **Java**, **C++**, **Python**, and **Kotlin**. Passionate about designing and implementing efficient software solutions, I continuously seek to improve and expand my skills in various programming languages and technologies.
 
@@ -10,7 +11,7 @@
 - **Programming Languages**: Javascript, Java, C++, Python, Kotlin.
 - **Database Management**: SQL, database design, and optimization.
 - **Version Control**: Git and GitHub for collaborative development.
-- **Frameworks and Libraries ** Boostrap, Font Awesome, Animate.css.
+- **Frameworks and Libraries** Boostrap, Font Awesome, Animate.css.
 
 ## Projects
 
