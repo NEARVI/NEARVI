@@ -1,16 +1,18 @@
-## Hi there 👋
+<h2 align="center">Hello, I’m Nelson Arrieta. 👋</h2>
 
-<!--
-**NEARVI/NEARVI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+👨‍💻 **Systems and Telecommunications Engineer** with a strong background in **web development** and expertise in **Java**, **C++**, **Python**, and **Kotlin**. Passionate about designing and implementing efficient software solutions, I continuously seek to improve and expand my skills in various programming languages and technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Web Development**: Responsive design, UI/UX principles, and modern web technologies.
+- **Programming Languages**: Javascript, Java, C++, Python, Kotlin.
+- **Database Management**: SQL, database design, and optimization.
+- **Version Control**: Git and GitHub for collaborative development.
+- **Frameworks and Libraries ** Boostrap, Font Awesome, Animate.css.
+
+## Projects
+
+1. **Pharmacy Management System**: Developed in Java with an SQL database, this software allows for product management and invoice generation.
+2. **Parking Management Software**: Built using Java and SQL to manage vehicle data in parking lots.
